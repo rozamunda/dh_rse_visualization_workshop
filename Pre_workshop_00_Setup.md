@@ -374,7 +374,7 @@ If you cannot complete every step, do not worry. We can help during the workshop
 ---
 
 ## Next step
-The first hands on element of the workshop is noted at [Building the visualisation](./01_Building_The_Visualisation.md)
+The first hands on element of the workshop is noted at [Building the visualisation](./Part_01_Building_The_Visualisation.md)
 
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
