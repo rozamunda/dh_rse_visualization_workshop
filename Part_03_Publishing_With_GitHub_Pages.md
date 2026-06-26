@@ -350,7 +350,6 @@ To update the live site:
 The same GitHub Pages link should update after the new changes are published.
 
 ---
----
 
 ## GitHub terms used in this guide
 
