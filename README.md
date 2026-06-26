@@ -83,7 +83,7 @@ If you are using a managed university computer, please check in advance whether 
 |---|
 | [Setup before the workshop](./Part_00_Pre_Workshop_Setup.md) | 
 Installation, GitHub account setup, VS Code setup, and getting the project files |
-| [Introduction to data visualisation](./Part_01_Data_Visualization_Intro.md) | 
+| [Introduction to data visualisation](./Part_01_Data_Visualisation_Intro.md) | 
 Resource on visualisation concepts, interactivity, accessibility, and further reading |
 | [Building the visualisation](./Part_02_Building_The_Visualisation.md) | 
 A written guide for the hands-on coding and visualisation activity  which follows the live demonstration. This is useful for reference if you choose to have it open whilst you work (optional).|
@@ -106,7 +106,7 @@ The supplementary introduction provides extra background on:
 
 You can read this before or after the workshop:
 
-[Introduction to data visualisation](./Part_01_Data_Visualization_Intro.md)
+[Introduction to data visualisation](./Part_01_Data_Visualisation_Intro.md)
 
 ## Session outline
 
