@@ -24,8 +24,8 @@ In this workshop, we will:
 
 ## Instructors
 
-**Instructor:** Tomas Vancisin  
-**Workshop support:** Somya Iqbal
+**Instructors:** Tomas Vancisin  
+& Somya Iqbal
 
 University of Edinbugh. The Edinburgh Futures Institute.
 
