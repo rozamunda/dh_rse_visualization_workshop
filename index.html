@@ -112,7 +112,7 @@
                 element.source_data.birthplace.lon,
               ])
                 .addTo(map)
-                .bindPopup("University of Edinburgh");
+                .bindPopup(element.name.forename + " " + element.name.surname);
             }
           });
 
@@ -183,7 +183,7 @@
             .append("path")
             .datum(timelineData)
             .attr("fill", "none")
-            .attr("stroke", "steelblue")
+            .attr("stroke", "red")
             .attr("stroke-width", 2)
             .attr("d", line);
 
